@@ -1,0 +1,17 @@
+# Ignore Java compiled files
+*.class
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Build folders
+bin/
+out/
+
+# Log files
+*.log
+
+git add .gitignore
