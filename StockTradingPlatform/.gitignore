@@ -1,6 +1,0 @@
-*.class
-.vscode/
-.idea/
-bin/
-out/
-*.log
