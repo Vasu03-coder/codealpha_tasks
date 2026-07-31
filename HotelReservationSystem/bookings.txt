@@ -1,0 +1,3 @@
+# GRAND PALACE HOTEL - BOOKING DATA
+# Format: bookingId;;name;;age;;gender;;phone;;email;;address;;roomNumber;;roomType;;checkIn;;checkOut;;days;;price;;total;;status
+BK396194;;vasu;;25;;Male;;9876543211;;vasu@gmail.com;;no.6, dubai street, dubai.;;301;;Suite;;2026-07-31;;2026-08-08;;8;;4000.0;;37760.0;;CANCELLED
