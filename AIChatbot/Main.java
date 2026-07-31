@@ -13,7 +13,7 @@ public class Main {
         System.out.println("Session started at: " + cm.getSessionStartTime());
         Utils.printHeader();
 
-        boolean running = true;
+        boolean running =java AIChatbot.Main true;
 
         while (running) {
             System.out.print("User : ");
